@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sunshine Digital Watch</string>
+    <string name="my_digital_name" translatable="false">Sunshine Digital Watch</string>
+    <string name="Text_RECEIVER_ACTION" translatable="false">com.example.android.sunshine.app.messageReceiver</string>
+    <string name="BRODCAST_INTENT_KEY" translatable="false">showText_key</string>
+
+
+    <string name="HIGH_TEMP_KEY" translatable="false">hightempkey</string>
+    <string name="LOW_TEMP_KEY" translatable="false">lowtempkey</string>
+    <string name="WEATID_KEY" translatable="false">weatheridkey</string>
+    <string name="DESC_KEY" translatable="false">desckey</string>
+</resources>
